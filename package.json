@@ -23,6 +23,7 @@
     "camelcase-keys": "^10.0.2",
     "date-fns": "^4.1.0",
     "pinia": "^3.0.4",
+    "primelocale": "^2.3.1",
     "primevue": "^4.5.4",
     "snakecase-keys": "^9.0.2",
     "vee-validate": "^4.15.1",
